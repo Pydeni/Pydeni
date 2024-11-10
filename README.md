@@ -76,31 +76,20 @@
 
 
 <br>
-
-## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
 <br>
 
 ## 🎒 Образование
 [<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
 [<img src="/stepik-certificate-114354-89c95ac_page-0001.jpg" width="280px" hspace="10px" alt="Курс ООП">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-114354-89c95ac_page-0001.jpg)
-[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
-[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
-[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
-[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
-[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/stepik-certificate-116336-9d6cf11_page-0001.jpg" width="280px" hspace="10px" alt="Курс по ООП">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-116336-9d6cf11_page-0001.jpg)
+[<img src="/stepik-certificate-119495-237d0cf_page-0001.jpg" width="280px" hspace="10px" alt="Selenium">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-119495-237d0cf_page-0001.jpg)
+[<img src="/stepik-certificate-58852-57c0f79_page-0001.jpg" width="280px" hspace="10px" alt="Поколение Python для начинающих">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-58852-57c0f79_page-0001.jpg)
+[<img src="/stepik-certificate-63054-c6dd012_page-0001.jpg" width="280px" hspace="10px" alt="Интерактивный тренажер по SQL">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-63054-c6dd012_page-0001.jpg)
+[<img src="/stepik-certificate-68343-159be57_page-0001.jpg" width="280px" hspace="10px" alt="Поколение Python для продвинутых">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-68343-159be57_page-0001.jpg)
 
 
 
 <br>
 <br>
 
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
