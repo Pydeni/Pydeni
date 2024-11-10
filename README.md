@@ -1,4 +1,4 @@
-Контакт - https://pydeni.github.io/
+Контакты - https://pydeni.github.io/
 
 ## 📊 Статистика
 
