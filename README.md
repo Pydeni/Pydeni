@@ -86,8 +86,15 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
-[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/stepik-certificate-114354-89c95ac_page-0001.jpg" width="280px" hspace="10px" alt="Курс ООП">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/stepik-certificate-114354-89c95ac_page-0001.jpg)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+[<img src="/denis_osipov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса по тестированию»">](https://raw.githubusercontent.com/Pydeni/Pydeni/refs/heads/main/denis_osipov_certificate_139_hours_ru.jpg)
+
+
 
 <br>
 <br>
